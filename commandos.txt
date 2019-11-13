@@ -1,0 +1,39 @@
+Neidhart Manuel --> Commandos
+=============================
+init : Erstellt ein neues lokales Repository.
+config :  Man kann von der Kommandozeile aus konfigurieren (z.B.:  Nutzerinfos, Einstellungen, das Verhalten eines Repos;).
+clone : Klont ein Reposetory Lokal(z.B.: in ein neues Verzeichnis).
+add : Added eine neue Datei in das Repository lokal.
+rm : Removed eine Datei aus dem lokalen Repository.
+commit : Erstellt eine Nachricht nach dem das lokale Repository gepusht wurde.
+remote : Macht eine Verbindung mit einem anderen Repository. Man kann diese Verbindung auch löschen oder abrufen
+push : Lädt die aktuelle Änderungen in das Online-Repository rein.
+pull : Zieht die neueste Version auf deinen Rechner.
+status : Zeigt dir den Status deines Reposetorys an.
+diff : Zeigt alle Änderungen zur letzten Speicherung an (z.B.: Was bei einer Datei geändert wurde).
+reset : Es werden alle lokalen Änderungen zurück gesetzt.
+log : Zeigt dir alle gesammten Änderungen.
+branch : Erstellt einen neuen Zweig.
+checkout : Damit wechselt man zwischen Branches.
+merge : Fügt zwei Branches zusammen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
